@@ -7,8 +7,11 @@ const greetings = { message: "Hello, earthling! I bring peace." };
 
 // Log the message 
 
+console.log(greetings.message)
+
 // --------------------------------------
 // Exercise 2 - Defining an object.
+
 
 // Create an object that has your name and age. 
 

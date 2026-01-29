@@ -10,7 +10,12 @@ const lastName = "Torup Jacobsen";
 // show in the console
 // My first name is Anders and my last name is Latif
 
-console.log("My first name is " + firstName + " and my last name is " + lastName);
+
+const fullNameMessage = "My first name is " + firstName + " and my last name is " + lastName;
+
+const fullNameMessageTwo = `My first name is  ${firstName} and my last name is  ${lastName}`;
+
+console.log(fullNameMessage);
 
 
 // --------------------------------------
